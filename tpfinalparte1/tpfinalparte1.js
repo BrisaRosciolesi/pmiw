@@ -1,3 +1,4 @@
+//https://youtu.be/gVFwI4wB7Co?si=JdboWVmbFMrVY3jo
 let estado;
 let pantallas = [];
 let imagenactual = 1;
@@ -601,3 +602,4 @@ function mousePressed() {
     return;
   }
 }
+
